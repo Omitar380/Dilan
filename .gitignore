@@ -1,0 +1,7 @@
+PresupuestoDiario/bin/
+PresupuestoDiario/obj/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
